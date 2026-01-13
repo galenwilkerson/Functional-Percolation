@@ -2,13 +2,11 @@
 
 **A theory of how information processing emerges in networked systems**
 
-
-![Bandit Training Animation](https://github.com/galenwilkerson/galenwilkerson.github.io/images/dtc_figs-crop.pdf)
 <img src="./dtc_figs-crop.pdf" width="600">
 
-![Decision Tree Complexity](./dtc_figs-crop.pdf)
+![Decision Tree Complexity](./dtc_fig.png)
 
-![Entropy](./entropy_fig-crop.pdf)
+![Entropy](./entropy_fig.png)
 ---
 
 ### Why this project exists
