@@ -6,8 +6,8 @@
 
 <figure>
   <div style="display:flex; gap:16px; align-items:flex-start; flex-wrap:wrap;">
-    <img src="./dtc_fig.png" alt="Functional percolation: GCC, DTC, and unique Boolean functions vs mean degree" style="width:480px; max-width:100%; height:auto;">
-    <img src="./entropy_fig.png" alt="Functional percolation: output entropy and transfer entropy vs mean degree" style="width:520px; max-width:100%; height:auto;">
+    <img src="./dtc_fig.png" alt="Functional percolation: GCC, DTC, and unique Boolean functions vs mean degree" style="width:490px; max-width:100%; height:auto;">
+    <img src="./entropy_fig.png" alt="Functional percolation: output entropy and transfer entropy vs mean degree" style="width:510px; max-width:100%; height:auto;">
   </div>
 
   <figcaption style="margin-top:10px; font-size:0.95em; line-height:1.35;">
