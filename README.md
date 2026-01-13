@@ -12,8 +12,9 @@
 
   <figcaption style="margin-top:10px; font-size:0.95em; line-height:1.35;">
     <strong>Functional percolation: A connectivity threshold for the onset of system-level information processing.</strong>
-    <em>Left:</em> As mean degree <code>z</code> crosses the structural percolation threshold <code>z_c</code>, the giant connected component forms, and—at the same point—typical functional complexity (mean decision-tree complexity, DTC) and functional diversity (mean number of unique Boolean input–output response functions realized by the cascade network) rise sharply; fluctuations peak near criticality.
-    <em>Right:</em> Information-theoretic signatures show the same onset: Output entropy and directed information flow (transfer entropy) increase sharply near <code>z_c</code>, with output entropy peaking near criticality while transfer entropy continues to grow with connectivity.
+    <em>Left:</em> As mean degree <code>z</code> crosses the structural percolation threshold <code>z<sub>c</sub></code>
+, the giant connected component forms, and—at the same point—typical functional complexity (mean decision-tree complexity, DTC) and functional diversity (mean number of unique Boolean input–output response functions realized by the cascade network) rise sharply; fluctuations peak near criticality.
+    <em>Right:</em> Information-theoretic signatures show the same onset: Output entropy and directed information flow (transfer entropy) increase sharply near <code>z<sub>c</sub></code>, with output entropy peaking near criticality while transfer entropy continues to grow with connectivity.
     <br><br>
     <strong>Relevance to “Crossing the Functional Desert”:</strong>
     These same near-critical signatures mark the narrow regime where cascades are system-spanning without saturating—supporting persistent, discriminative response mappings (an “oasis”) rather than sparse, transient mappings below threshold (the “functional desert”).
