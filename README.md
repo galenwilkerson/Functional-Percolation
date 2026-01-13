@@ -198,6 +198,8 @@ Example:
 
 ```bash
 python generate_dtc_figures_mean_std_GPU.py
+
+python generate_entropy_figures.py
 ```
 
 Outputs are saved to `./data/` and `./data/figures/`.
