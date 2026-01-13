@@ -1,6 +1,6 @@
 # Functional Percolation
 
-**A theory of how information processing emerges in networked systems**
+**A theory of the emergence of information processing in networked systems**
 
 
 <figure>
