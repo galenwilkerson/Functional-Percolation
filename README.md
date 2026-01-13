@@ -2,8 +2,6 @@
 
 **A theory of how information processing emerges in networked systems**
 
-<img src="./dtc_fig.png" width="500">
-<img src="./entropy_fig.png" width="500">
 
 
 <figure>
