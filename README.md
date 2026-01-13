@@ -2,6 +2,7 @@
 
 **A theory of how information processing emerges in networked systems**
 
+<img src="./dtc_figs-crop.pdf" width="600">
 
 ![Decision Tree Complexity](./dtc_figs-crop.pdf)
 
