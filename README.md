@@ -87,7 +87,7 @@ It shows that:
 • Below critical connectivity → functional responses are transient
 • Near criticality → persistent functional mappings emerge
 • Cascades introduce bias and weak accumulation
-• Feasibility barriers are softened dynamically
+• Feasibility barriers are reduced dynamically
 
 The result is a **substrate-agnostic mechanism** for how early life could begin accumulating functional structure *without* needing improbable chemical luck.
 
