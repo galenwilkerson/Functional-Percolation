@@ -2,13 +2,10 @@
 
 **A theory of how information processing emerges in networked systems**
 
-<img src="./dtc_figs.png" width="600">
+<img src="./dtc_fig.png" width="600">
 <img src="./entropy_fig.png" width="600">
 
 
-![Decision Tree Complexity](./dtc_fig.png)
-
-![Entropy](./entropy_fig.png)
 ---
 
 ### Why this project exists
