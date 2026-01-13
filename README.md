@@ -76,7 +76,7 @@ Wilkerson, Moschoyiannis & Jensen (2022)
 
 ---
 
-### 2. *Functional Percolation: A Perspective on Criticality of Form and Function* (arXiv, 2025)
+### 2. *Functional Percolation: Criticality of Form and Function* (arXiv, 2025)
 
 **Theoretical framework**
 
