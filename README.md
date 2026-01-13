@@ -208,14 +208,12 @@ Outputs are saved to `./data/` and `./data/figures/`.
 
 If you use this work, please cite:
 
-Wilkerson, G.J. (2026)
-*Crossing the Functional Desert*
+Wilkerson GJ. Crossing the Functional Desert: Critical Cascades and a Feasibility Transition for the Emergence of Life. arXiv preprint. 2026. https://arxiv.org/abs/2601.06272
 [https://arxiv.org/abs/2601.06272](https://arxiv.org/abs/2601.06272)
 
-Wilkerson, G.J. (2025)
-*Functional Percolation*
+Wilkerson GJ. Functional Percolation: A Perspective on Criticality of Form and Function. arXiv preprint. 2025. https://arxiv.org/abs/2512.09317
 [https://arxiv.org/abs/2512.09317](https://arxiv.org/abs/2512.09317)
 
-Wilkerson, G., Moschoyiannis, S., & Jensen, H.J. (2022)
-*Spontaneous emergence of computation in network cascades*
+Wilkerson GJ, Moschoyiannis S, Jensen HJ. Spontaneous emergence of computation in network cascades. Sci Rep. 2022;12:15521. doi:10.1038/s41598-022-19218-0
 [https://doi.org/10.1038/s41598-022-19218-0](https://doi.org/10.1038/s41598-022-19218-0)
+
