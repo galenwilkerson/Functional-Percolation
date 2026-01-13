@@ -3,8 +3,9 @@
 **A theory of how information processing emerges in networked systems**
 
 
-![Decision Tree Complexity](dtc_figs-crop.pdf)
-![Functional percolation schematic](functional_percolation_schematic.pdf)
+![Decision Tree Complexity](./dtc_figs-crop.pdf)
+
+![Entropy](./entropy_fig-crop.pdf)
 ---
 
 ### Why this project exists
