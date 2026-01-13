@@ -17,7 +17,7 @@
     <br><br>
     <strong>Relevance to “Crossing the Functional Desert”:</strong>
     these same near-critical signatures mark the narrow regime where cascades are system-spanning without saturating—supporting persistent, discriminative response mappings (an “oasis”) rather than sparse, transient mappings below threshold (the “functional desert”).
-    This is the proposed feasibility transition: once connectivity/thresholded propagation are sufficient, exploration in exponentially branching spaces can become physically supported via persistence and bias.]
+    This is the proposed feasibility transition: once connectivity/thresholded propagation are sufficient, exploration in exponentially branching spaces can become physically supported via persistence and bias.
     <br><br>
     Papers:
     <a href="https://arxiv.org/abs/2512.09317">Functional Percolation (2025)</a> ·
