@@ -2,6 +2,9 @@
 
 **A theory of how information processing emerges in networked systems**
 
+
+![Functional percolation schematic](functional_percolation_schematic.pdf)
+![Functional percolation schematic](functional_percolation_schematic.pdf)
 ---
 
 ### Why this project exists
