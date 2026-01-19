@@ -63,6 +63,45 @@ Together, these results suggest a **general physical mechanism for the emergence
 
 ---
 
+## Background & Motivation
+
+Percolation is one of the most fundamental processes in statistical physics and network science.
+It describes how large-scale connectivity emerges from local interactions when a system crosses a critical threshold.
+Below this threshold, components remain isolated; above it, long-range structure suddenly becomes possible.
+
+Percolation transitions are a universal form of symmetry breaking:
+a system shifts from fragmented, local behavior to coherent, system-spanning organization.
+Remarkably, this transition depends only on generic features like connectivity and interaction rules,
+not on microscopic details of the underlying substrate.
+As a result, percolation-like phenomena appear across physics, biology, and social systems.
+
+In networks with nonlinear or thresholded responses, percolation has an even deeper consequence:
+it enables *cascades* — spreading processes in which local activations propagate through the system.
+Duncan Watts (2002) showed that when connectivity exceeds a critical level,
+small perturbations can trigger global cascades in random networks,
+linking percolation theory directly to large-scale influence propagation.
+
+Earlier sociological work by Granovetter demonstrated that thresholded adoption rules
+can produce collective behavioral shifts,
+establishing cascades as a general mechanism of information diffusion and social coordination.
+
+What was not previously understood is that cascades do more than transmit signals.
+They can also *compute* structured input–output responses.
+
+Once cascades become system-spanning, networks are no longer just connected —
+they become capable of realizing diverse, nontrivial functional mappings between inputs and outputs.
+This marks a transition not only in structure, but in *function*.
+
+**Functional Percolation** refers to this higher-order phase transition:
+the point at which connectivity and thresholded propagation jointly enable
+persistent, discriminative information processing in networked systems.
+
+This project develops the theory, simulations, and measurements
+needed to study how functional organization emerges from cascades
+near percolation criticality.
+
+---
+
 ## The Three Papers (How They Fit Together)
 
 ### 1. *Spontaneous emergence of computation in network cascades* (Scientific Reports, 2022)
