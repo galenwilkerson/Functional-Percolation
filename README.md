@@ -34,21 +34,7 @@
   <a href="https://doi.org/10.1038/s41598-022-19218-0">Spontaneous emergence of computation in network cascades (Sci Rep, 2022)</a>.
 </figcaption>
 
-  <figcaption style="margin-top:10px; font-size:0.95em; line-height:1.35;">
-    <strong>Functional percolation: A connectivity threshold for the onset of system-level information processing.</strong>
-    <em>Left:</em> As mean degree <code>z</code> crosses the structural percolation threshold <code>z<sub>c</sub></code>
-, the giant connected component forms, and—at the same point—typical functional complexity (mean decision-tree complexity, DTC) and functional diversity (mean number of unique Boolean input–output response functions realized by the cascade network) rise sharply; fluctuations peak near criticality.
-    <em>Right:</em> Information-theoretic signatures show the same onset: Output entropy and directed information flow (transfer entropy) increase sharply near <code>z<sub>c</sub></code>, with output entropy peaking near criticality while transfer entropy continues to grow with connectivity.
-    <br><br>
-    <strong>Relevance to “Crossing the Functional Desert”:</strong>
-    These same near-critical signatures mark the narrow regime where cascades are system-spanning without saturating—supporting persistent, discriminative response mappings (an “oasis”) rather than sparse, transient mappings below threshold (the “functional desert”).
-    This is the proposed feasibility transition: once connectivity/thresholded propagation are sufficient, exploration in exponentially branching spaces can become physically supported via persistence and bias.
-    <br><br>
-    Papers:
-    <a href="https://arxiv.org/abs/2512.09317">Functional Percolation (2025)</a> ·
-    <a href="https://arxiv.org/abs/2601.06272">Crossing the Functional Desert (2026)</a> ·
-    <a href="https://doi.org/10.1038/s41598-022-19218-0">Spontaneous emergence of computation in network cascades (Sci Rep, 2022)</a>.
-  </figcaption>
+
 </figure>
 
 
