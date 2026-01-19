@@ -10,6 +10,30 @@
          style="width:100%; max-width:100%; height:auto;">
   </div>
 
+<figcaption style="margin-top:10px; font-size:0.95em; line-height:1.35;">
+  <strong>Functional percolation: A connectivity threshold for the onset of cascade-based information processing.</strong>
+  <em>Left:</em> As mean degree <code>z</code> crosses the structural percolation threshold <code>z<sub>c</sub></code>,
+  a giant connected component forms, enabling cascades to propagate system-wide.
+  At the same point, the functional complexity of cascade responses (mean decision-tree complexity, DTC)
+  and functional diversity (the number of distinct Boolean input–output response functions realized by the network)
+  rise sharply, with large fluctuations near criticality.
+  <em>Right:</em> Information-theoretic measures show the same transition:
+  output entropy and directed information flow (transfer entropy) increase as cascades become system-spanning,
+  with entropy peaking near criticality while transfer entropy continues to grow with connectivity.
+  <br><br>
+  <strong>Relevance to “Crossing the Functional Desert”:</strong>
+  These near-critical signatures identify the narrow regime where cascades are system-spanning without saturating,
+  allowing networks to support persistent, discriminative functional responses rather than sparse, transient ones.
+  This “functional percolation” regime constitutes a feasibility transition:
+  once connectivity and thresholded propagation are sufficient, structured responses can recur over short coherence
+  timescales, enabling biased accumulation in exponentially branching spaces.
+  <br><br>
+  Papers:
+  <a href="https://arxiv.org/abs/2512.09317">Functional Percolation (2025)</a> ·
+  <a href="https://arxiv.org/abs/2601.06272">Crossing the Functional Desert (2026)</a> ·
+  <a href="https://doi.org/10.1038/s41598-022-19218-0">Spontaneous emergence of computation in network cascades (Sci Rep, 2022)</a>.
+</figcaption>
+
   <figcaption style="margin-top:10px; font-size:0.95em; line-height:1.35;">
     <strong>Functional percolation: A connectivity threshold for the onset of system-level information processing.</strong>
     <em>Left:</em> As mean degree <code>z</code> crosses the structural percolation threshold <code>z<sub>c</sub></code>
