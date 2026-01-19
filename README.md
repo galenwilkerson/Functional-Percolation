@@ -94,8 +94,7 @@ This marks a transition not only in structure, but in *function*.
 
 Here is an [interactive simulation of network cascades](https://galenwilkerson.github.io/ltm_cascade_topologies.html), to help you better understand them:
 
-
-[https://galenwilkerson.github.io/ltm_cascade_topologies.html](https://galenwilkerson.github.io/ltm_cascade_topologies.html)
+And a [repository about the Linear Threshold Model (LTM)](https://github.com/galenwilkerson/Linear-Threshold-Model), a network cascade model.
 
 **Functional Percolation** refers to this higher-order phase transition:
 the point at which connectivity and thresholded propagation jointly enable
