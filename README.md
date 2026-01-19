@@ -92,6 +92,9 @@ Once cascades become system-spanning, networks are no longer just connected —
 they become capable of realizing diverse, nontrivial functional mappings between inputs and outputs.
 This marks a transition not only in structure, but in *function*.
 
+Here is an interactive simulation of network cascades, to help you better understand them:
+[https://galenwilkerson.github.io/ltm_cascade_topologies.html](https://galenwilkerson.github.io/ltm_cascade_topologies.html)
+
 **Functional Percolation** refers to this higher-order phase transition:
 the point at which connectivity and thresholded propagation jointly enable
 persistent, discriminative information processing in networked systems.
