@@ -23,7 +23,7 @@
   <br><br>
   <strong>Relevance to “Crossing the Functional Desert”:</strong>
   These near-critical signatures identify the narrow regime where cascades are system-spanning without saturating,
-  allowing networks to support persistent, discriminative functional responses rather than sparse, transient ones.
+  allowing networks to support discriminative functional responses over non-zero coherence timescales rather than only sparse, transient ones.
   This “functional percolation” regime constitutes a feasibility transition:
   once connectivity and thresholded propagation are sufficient, structured responses can recur over short coherence
   timescales, enabling biased accumulation in exponentially branching spaces.
@@ -49,7 +49,7 @@ Across biology, physics, and social systems, complex behavior emerges from many 
 **Functional Percolation** proposes a new answer:
 
 > When interaction networks cross a critical connectivity threshold, they don’t just become large —
-> they become *capable of computing, accumulating, and stabilizing functional responses.*
+> they become *capable of computing, accumulating, and supporting functional responses over non-zero timescales.*
 
 This repository contains the simulation code supporting a unified theoretical framework showing how:
 
@@ -98,7 +98,7 @@ And a [repository about the Linear Threshold Model (LTM)](https://github.com/gal
 
 **Functional Percolation** refers to this higher-order phase transition:
 the point at which connectivity and thresholded propagation jointly enable
-persistent, discriminative information processing in networked systems.
+discriminative information processing over non-zero coherence timescales in networked systems.
 
 This project develops the theory, simulations, and measurements
 needed to study how functional organization emerges from cascades
@@ -141,7 +141,7 @@ This paper introduces the concept of **functional percolation**:
 It reframes criticality not just as a structural phenomenon (giant components), but as a **functional transition** where:
 
 • Information can propagate reliably
-• Input–output mappings stabilize
+• Input–output mappings remain coherent over cascade timescales
 • Functional motifs become reusable
 • Computation becomes system-level
 
@@ -208,7 +208,7 @@ Traditional percolation theory asks:
 
 Functional percolation asks:
 
-> When does a system become capable of **processing and stabilizing information**?
+> When does a system become capable of **processing and supporting information over non-zero timescales**?
 
 The answer: **near the critical threshold**.
 
@@ -216,7 +216,7 @@ At this point, networks gain:
 
 • Long-range propagation
 • Functional motif reuse
-• Persistent response patterns
+• Response patterns that recur over cascade timescales
 • Biased accumulation
 • Increased functional diversity
 
