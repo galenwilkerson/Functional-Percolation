@@ -56,8 +56,8 @@ This repository contains the simulation code supporting a unified theoretical fr
 • Cascades can compute Boolean functions
 • Functional diversity peaks near criticality
 • Information-processing motifs arise spontaneously
-• Persistence and accumulation become dynamically possible
-• Combinatorial feasibility barriers can be softened
+• Temporally supported responses and biased accumulation become dynamically possible
+• Combinatorial feasibility barriers can be reduced
 
 Together, these results suggest a **general physical mechanism for the emergence of information processing** in many systems — from neural networks to prebiotic chemistry.
 
@@ -100,6 +100,8 @@ And a [repository about the Linear Threshold Model (LTM)](https://github.com/gal
 the point at which connectivity and thresholded propagation jointly enable
 discriminative information processing over non-zero coherence timescales in networked systems.
 
+Here, “coherence timescale” refers to the finite duration over which cascade-driven responses remain structured before the system resets.
+
 This project develops the theory, simulations, and measurements
 needed to study how functional organization emerges from cascades
 near percolation criticality.
@@ -136,7 +138,7 @@ Wilkerson, Moschoyiannis & Jensen (2022)
 
 This paper introduces the concept of **functional percolation**:
 
-> A phase transition in which networks gain the ability to support persistent, structured functional responses.
+> A phase transition in which networks gain the ability to support structured functional responses over non-zero coherence timescales.
 
 It reframes criticality not just as a structural phenomenon (giant components), but as a **functional transition** where:
 
@@ -164,7 +166,7 @@ How can persistent functional organization arise in vast combinatorial chemical 
 It shows that:
 
 • Below critical connectivity → functional responses are transient
-• Near criticality → persistent functional mappings emerge
+• Near criticality → functional mappings recur over non-zero coherence timescales
 • Cascades introduce bias and weak accumulation
 • Feasibility barriers are reduced dynamically
 
